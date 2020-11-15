@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="UTF-8">
+		<title>Roche, papier, ciseaux!</title>
+		<script src="rpc.js"></script>
+		<link rel="stylesheet" type="text/css" href="rpc.css" />
+	</head>
+	<body>
+		
+		<header>
+			<h1>Roche, papier, ciseaux !</h1>
+		</header>
+
+    <div class="troixdiv">
+      <div class="gauche">
+        <div class="ordinateur">
+          <h2>Ordinateur</h2>
+          <p id="compteurOrdi">0</p>
+        </div>
+        <div class="symphorien">
+          <h2 id="saisienom">Inconnu</h2>
+          <p id="compteurJoueur">0</p>
+        </div>
+      </div>
+      <div class="centre">
+        <div class="boiteCentre">
+          <div id="choixImage" class="choixImage">
+						<img id="rocheOrdi" src="roche.jpg" alt="Roche">
+						<img id="feuilleOrdi" src="feuille.jpg" alt="Feuille">
+						<img id="ciseauOrdi" src="ciseaux.jpg" alt="Ciseaux">
+          </div>
+          <p id="message">En attente de votre choix</p>
+        </div>
+          <input type="checkbox" id="triche" name="triche" value="Triche">
+          <label for="triche">Mode triche</label><br>
+      </div>
+      <div class="droite">
+        <input type="button" id="RAZ" value="RAZ">
+        <br>
+        <input type="button" id="nom" value="Changer nom">
+      </div>
+    </div>
+
+		<div class="bas">
+			<p>Faites votre choix</p>
+			<div class="images">
+					<img id="roche" src="roche.jpg" alt="Roche">
+					<img id="feuille" src="feuille.jpg" alt="Feuille">
+					<img id="ciseau" src="ciseaux.jpg" alt="Ciseaux">
+			</div>
+		</div>
+
+	</body>
+</html>

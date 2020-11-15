@@ -1,0 +1,159 @@
+html {
+  background-color: #8E9AAF;
+  height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+header{
+  background: black;
+  color : #8E9AAF;
+  padding : 1px 0px 1px 45px;
+  font-size: 20px;
+}
+
+/*ALIGNEMENT PRINCIPALES DIV */
+
+.gauche {
+ padding-left: 10px;
+ float:left;
+ width:24%;
+}
+
+.centre {
+ float:left;
+ width:50%;
+ margin: 0px 5px 0px 5px;
+}
+
+.droite {
+ float:left;
+ width:24%;
+}
+
+/*GAUCHE */
+
+.ordinateur {
+  border: solid 1px  #373840;
+  margin: 20px 40px 20px 30px;
+  text-align: center;
+}
+
+.symphorien {
+  border: solid 1px  #373840;
+  margin: 20px 40px 20px 30px;
+  text-align: center;
+}
+
+.gauche h2 {
+  font-size: 20px;
+  font-weight: lighter;
+  background-color: #373840;
+  color: #DEE2FF;
+  padding: 2px;
+  margin: auto;
+}
+
+.gauche p {
+  background-color: #FFFFFF;
+  padding: 10px 0px 10px 0px;
+  margin: auto;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/*MILIEU */
+
+.boiteCentre {
+  border: solid 1px  #373840;
+  margin: 20px 40px 0px 30px;
+  background-color: #FFFFFF;
+}
+
+.choixImage {
+  height: 250px;
+  width: 200px;
+}
+
+#rocheOrdi {
+  height: 200px;
+  width: 200px;
+  border: none;
+  margin: 20px 20px 20px 110px;
+  display: none;
+}
+
+#feuilleOrdi {
+  height: 200px;
+  width: 200px;
+  border: none;
+  margin: 20px 20px 20px 110px;
+  display:none;
+}
+
+#ciseauOrdi {
+  height: 200px;
+  width: 200px;
+  border: none;
+  margin: 20px 20px 20px 110px;
+  display: none;
+}
+.centre p {
+  font-size: 20px;
+  font-style: italic;
+  background-color: #373840;
+  color: #DEE2FF;
+  padding: 2px;
+  margin: auto;
+}
+
+.centre label {
+  color : #373840;
+  font-size: 20px;
+}
+
+#triche {
+  margin-left: 30px;
+}
+
+/*DROITE*/
+
+input[type=button] {
+  background-color: #373840;
+  border: none;
+  color: #DEE2FF;
+  text-decoration: none;
+  cursor: pointer;
+  width: 120px;
+  height: 30px;
+  margin: 20px 0px 0px 60px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/*BAS*/
+
+.bas {
+  border: solid 1px  #373840;
+  margin: 325px 290px 0px 40px;
+  background-color: #FFFFFF;
+  height: 150px;
+}
+
+.bas p {
+  font-size: 20px;
+  background-color: #373840;
+  color: #DEE2FF;
+  padding: 2px;
+  margin: auto;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+  border: solid 2px #A6A9BF;
+  margin: 5px 50px 5px 60px;
+}
