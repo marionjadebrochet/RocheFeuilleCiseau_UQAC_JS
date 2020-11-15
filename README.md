@@ -9,12 +9,18 @@ Le travail demandé est de réaliser ce jeu. La forme et le fond on été défin
 ### Consignes : 
 
 On trouve dans cette page :
-    * Le titre Roche, papier, ciseaux! tout en haut
-    * Deux boîtes rectangulaires affichant le nom des deux joueurs dans un bandeau coloré, ainsi qu'un (gros) chiffre placé en dessous et indiquant le score actuel du joueur.
-    *À la droite des scores, une boîte rectangulaire où s'affichera le choix de l'ordinateur à chaque tour, ainsi qu'un bandeau coloré en bas servant à afficher un message (dans la maquette, ce message est "En attente de votre choix"
-    *Sous cette boîte, une case à cocher accompagnée du texte Mode triche
-    *Sous tous ces éléments, une boîte rectangulaire intitulée Faites votre choix, contenant trois rectangles avec les images de la roche, du papier et des ciseaux.
-    *Tout à la droite, deux boutons placés l'un sous l'autre: le premier appelé RAZ, et l'autre Changer nom.
+
+Le titre Roche, papier, ciseaux! tout en haut
+
+Deux boîtes rectangulaires affichant le nom des deux joueurs dans un bandeau coloré, ainsi qu'un (gros) chiffre placé en dessous et indiquant le score actuel du joueur.
+
+À la droite des scores, une boîte rectangulaire où s'affichera le choix de l'ordinateur à chaque tour, ainsi qu'un bandeau coloré en bas servant à afficher un message (dans la maquette, ce message est "En attente de votre choix"
+
+Sous cette boîte, une case à cocher accompagnée du texte Mode triche
+
+Sous tous ces éléments, une boîte rectangulaire intitulée Faites votre choix, contenant trois rectangles avec les images de la roche, du papier et des ciseaux.
+
+Tout à la droite, deux boutons placés l'un sous l'autre: le premier appelé RAZ, et l'autre Changer nom.
 La maquette est donnée.
     
 ### Fonctionnement du jeu
