@@ -21,6 +21,7 @@ Sous cette boîte, une case à cocher accompagnée du texte Mode triche
 Sous tous ces éléments, une boîte rectangulaire intitulée Faites votre choix, contenant trois rectangles avec les images de la roche, du papier et des ciseaux.
 
 Tout à la droite, deux boutons placés l'un sous l'autre: le premier appelé RAZ, et l'autre Changer nom.
+
 La maquette est donnée.
     
 ### Fonctionnement du jeu
